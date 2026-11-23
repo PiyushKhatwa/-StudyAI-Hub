@@ -1,14 +1,18 @@
+
 import React from 'react';
+import { SITE_CONFIG } from '@/lib/seo/metadata';
 
 interface JsonLdProps {
   data: Record<string, unknown>;
 }
 
 export const JsonLd: React.FC<JsonLdProps> = ({ data }) => {
+  const jsonLd = JSON.stringify(data).replace(/</g, '\\u003c');
+
   return (
     <script
       type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
+      dangerouslySetInnerHTML={{ __html: jsonLd }}
     />
   );
 };
@@ -17,11 +21,11 @@ export function getOrganizationSchema() {
   return {
     '@context': 'https://schema.org',
     '@type': 'Organization',
-    name: 'StudyAI Hub',
-    url: 'https://studyaihub.live',
-    logo: 'https://studyaihub.live/logo.png',
-    description: 'An independent discovery and educational resource platform helping college students find vetted AI tools for study, research, coding, writing, and presentations.',
-    sameAs: []
+    '@id': `${SITE_CONFIG.url}/#organization`,
+    name: SITE_CONFIG.name,
+    url: SITE_CONFIG.url,
+    logo: `${SITE_CONFIG.url}/logo.png`,
+    description: SITE_CONFIG.description,
   };
 }
 
@@ -29,17 +33,18 @@ export function getWebSiteSchema() {
   return {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    name: 'StudyAI Hub',
-    url: 'https://studyaihub.live',
-    potentialAction: {
-      '@type': 'SearchAction',
-      target: 'https://studyaihub.live/?q={search_term_string}',
-      'query-input': 'required name=search_term_string'
-    }
+    '@id': `${SITE_CONFIG.url}/#website`,
+    name: SITE_CONFIG.name,
+    url: SITE_CONFIG.url,
+    publisher: {
+      '@id': `${SITE_CONFIG.url}/#organization`,
+    },
   };
 }
 
-export function getBreadcrumbSchema(items: { name: string; url: string }[]) {
+export function getBreadcrumbSchema(
+  items: { name: string; url: string }[]
+) {
   return {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
@@ -47,8 +52,8 @@ export function getBreadcrumbSchema(items: { name: string; url: string }[]) {
       '@type': 'ListItem',
       position: index + 1,
       name: item.name,
-      item: item.url
-    }))
+      item: item.url,
+    })),
   };
 }
 
@@ -58,7 +63,7 @@ export function getArticleSchema({
   url,
   publishedAt,
   updatedAt,
-  authorName
+  authorName,
 }: {
   title: string;
   description: string;
@@ -71,25 +76,20 @@ export function getArticleSchema({
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: title,
-    description: description,
-    url: url,
+    description,
+    url,
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': url,
+    },
     datePublished: publishedAt,
     dateModified: updatedAt,
     author: {
       '@type': 'Organization',
-      name: authorName
+      name: authorName,
     },
     publisher: {
-      '@type': 'Organization',
-      name: 'StudyAI Hub',
-      logo: {
-        '@type': 'ImageObject',
-        url: 'https://studyaihub.live/logo.png'
-      }
+      '@id': `${SITE_CONFIG.url}/#organization`,
     },
-    mainEntityOfPage: {
-      '@type': 'WebPage',
-      '@id': url
-    }
   };
 }
