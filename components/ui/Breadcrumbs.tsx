@@ -14,8 +14,8 @@ interface BreadcrumbsProps {
 
 export const Breadcrumbs: React.FC<BreadcrumbsProps> = ({ items }) => {
   const schemaItems = [
-    { name: 'Home', url: 'https://studyaihub.com' },
-    ...items.map(i => ({ name: i.label, url: `https://studyaihub.com${i.href}` }))
+    { name: 'Home', url: 'https://studyaihub.live' },
+    ...items.map(i => ({ name: i.label, url: `https://studyaihub.live${i.href}` }))
   ];
 
   return (

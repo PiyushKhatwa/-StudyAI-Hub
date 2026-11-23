@@ -1,10 +1,16 @@
-import { Metadata } from 'next';
+
+import type { Metadata } from 'next';
+
+const baseUrl = (
+  process.env.NEXT_PUBLIC_SITE_URL || 'https://studyaihub.live'
+).replace(/\/+$/, '');
 
 export const SITE_CONFIG = {
   name: 'StudyAI Hub',
   tagline: 'Discover the right AI tools for smarter studying.',
-  url: process.env.NEXT_PUBLIC_SITE_URL || 'https://studyaihub.com',
-  description: 'A curated discovery platform helping college students find the right AI tools for study, research, coding, writing, presentations, and productivity.',
+  url: baseUrl,
+  description:
+    'A curated discovery platform helping college students find the right AI tools for study, research, coding, writing, presentations, and productivity.',
   keywords: [
     'AI tools for students',
     'best AI tools for students',
@@ -14,25 +20,33 @@ export const SITE_CONFIG = {
     'AI tools for research',
     'AI coding tools for students',
     'AI presentation maker for students',
-    'AI note taking tools'
+    'AI note taking tools',
   ],
-  author: 'StudyAI Hub Editorial Team'
+  author: 'StudyAI Hub Editorial Team',
 };
 
 export function constructMetadata({
   title,
   description,
   path = '',
-  keywords = []
+  keywords = [],
 }: {
   title?: string;
   description?: string;
   path?: string;
   keywords?: string[];
 }): Metadata {
-  const metaTitle = title ? `${title} | ${SITE_CONFIG.name}` : `${SITE_CONFIG.name} — ${SITE_CONFIG.tagline}`;
+  const metaTitle = title
+    ? `${title} | ${SITE_CONFIG.name}`
+    : `${SITE_CONFIG.name} — ${SITE_CONFIG.tagline}`;
+
   const metaDescription = description || SITE_CONFIG.description;
-  const canonicalUrl = `${SITE_CONFIG.url}${path}`;
+
+  const normalizedPath = path
+    ? `/${path.replace(/^\/+/, '')}`
+    : '';
+
+  const canonicalUrl = `${SITE_CONFIG.url}${normalizedPath}`;
 
   return {
     title: metaTitle,
@@ -41,22 +55,26 @@ export function constructMetadata({
     authors: [{ name: SITE_CONFIG.author, url: SITE_CONFIG.url }],
     creator: SITE_CONFIG.author,
     metadataBase: new URL(SITE_CONFIG.url),
+
     alternates: {
-      canonical: canonicalUrl
+      canonical: canonicalUrl,
     },
+
     openGraph: {
       title: metaTitle,
       description: metaDescription,
       url: canonicalUrl,
       siteName: SITE_CONFIG.name,
       locale: 'en_US',
-      type: 'website'
+      type: 'website',
     },
+
     twitter: {
       card: 'summary_large_image',
       title: metaTitle,
-      description: metaDescription
+      description: metaDescription,
     },
+
     robots: {
       index: true,
       follow: true,
@@ -65,8 +83,8 @@ export function constructMetadata({
         follow: true,
         'max-video-preview': -1,
         'max-image-preview': 'large',
-        'max-snippet': -1
-      }
-    }
+        'max-snippet': -1,
+      },
+    },
   };
 }

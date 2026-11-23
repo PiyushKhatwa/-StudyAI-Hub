@@ -18,8 +18,8 @@ export function getOrganizationSchema() {
     '@context': 'https://schema.org',
     '@type': 'Organization',
     name: 'StudyAI Hub',
-    url: 'https://studyaihub.com',
-    logo: 'https://studyaihub.com/logo.png',
+    url: 'https://studyaihub.live',
+    logo: 'https://studyaihub.live/logo.png',
     description: 'An independent discovery and educational resource platform helping college students find vetted AI tools for study, research, coding, writing, and presentations.',
     sameAs: []
   };
@@ -30,10 +30,10 @@ export function getWebSiteSchema() {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     name: 'StudyAI Hub',
-    url: 'https://studyaihub.com',
+    url: 'https://studyaihub.live',
     potentialAction: {
       '@type': 'SearchAction',
-      target: 'https://studyaihub.com/?q={search_term_string}',
+      target: 'https://studyaihub.live/?q={search_term_string}',
       'query-input': 'required name=search_term_string'
     }
   };
@@ -84,7 +84,7 @@ export function getArticleSchema({
       name: 'StudyAI Hub',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://studyaihub.com/logo.png'
+        url: 'https://studyaihub.live/logo.png'
       }
     },
     mainEntityOfPage: {
