@@ -3,7 +3,7 @@ import { CATEGORIES_DATA } from '@/content/tools/tools-data';
 import { FLAGSHIP_ARTICLE } from '@/content/articles/best-ai-tools-for-college-students';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://studyaihub.com';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://studyaihub.live';
   const currentDate = '2026-10-08T00:00:00.000Z';
 
   // Core Static Routes
