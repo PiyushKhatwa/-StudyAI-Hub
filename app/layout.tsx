@@ -1,9 +1,17 @@
+
 import type { Metadata } from 'next';
 import { Geist, Geist_Mono } from 'next/font/google';
 import './globals.css';
+
 import { Navbar } from '@/components/layout/Navbar';
 import { Footer } from '@/components/layout/Footer';
-import { JsonLd, getOrganizationSchema, getWebSiteSchema } from '@/components/seo/JsonLd';
+
+import {
+  JsonLd,
+  getOrganizationSchema,
+  getWebSiteSchema,
+} from '@/components/seo/JsonLd';
+
 import { constructMetadata } from '@/lib/seo/metadata';
 
 const geistSans = Geist({
@@ -18,8 +26,9 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = constructMetadata({
   title: 'Find the Best AI Tools for Students (2026)',
-  description: 'A curated discovery platform helping college students find the right AI tools for study, research papers, coding, writing, presentations, and productivity.',
-  path: '/'
+  description:
+    'A curated discovery platform helping college students find the right AI tools for study, research papers, coding, writing, presentations, and productivity.',
+  path: '/',
 });
 
 export default function RootLayout({
@@ -32,11 +41,11 @@ export default function RootLayout({
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <head>
+      <body className="min-h-full flex flex-col bg-slate-50 text-slate-900 font-sans">
+        {/* Organization and Website structured data */}
         <JsonLd data={getOrganizationSchema()} />
         <JsonLd data={getWebSiteSchema()} />
-      </head>
-      <body className="min-h-full flex flex-col bg-slate-50 text-slate-900 font-sans">
+
         {/* Skip to Main Content for Accessibility */}
         <a
           href="#main-content"
@@ -44,10 +53,13 @@ export default function RootLayout({
         >
           Skip to main content
         </a>
+
         <Navbar />
+
         <main id="main-content" className="flex-1">
           {children}
         </main>
+
         <Footer />
       </body>
     </html>
