@@ -1,0 +1,1003 @@
+﻿=== DOCS / MILESTONE-2-REPORT ===
+
+==========================================
+FILE: pagespeed-desktop.png (73593 bytes)
+==========================================
+  PageSpeed Insights
+  0.3 s
+  60 ms
+  1.1 s
+  100
+  perfor
+  0.3 s
+
+==========================================
+FILE: pagespeed-mobile.png (72653 bytes)
+==========================================
+  Insights
+  98
+  I.os
+  140 ms
+  2.8 s
+  I.os
+
+==========================================
+FILE: Screenshot 2026-11-24 160444.png (150157 bytes)
+==========================================
+  M X @ SEO
+  Analytic
+  Analy X Rich X
+  study
+  N) study X URL I X
+  A study
+  CSET X
+  Piyus
+  (21)
+  CD
+  Settit
+  Inbc: X
+  2; analytics.google.com/analytics/web/#/a360567366p536579776/admin/property/create
+  x
+  Property creatio
+  All
+  iOS
+  St
+  O
+  h
+  Next
+  260C
+  Sunny
+  Set up a Google tag
+  Choose how to set up a Google tag
+  Install manually RECOMMENDED
+  Below is the Google tag for this container. Copy and paste it in the code of every page of your website, immediately after the <head>
+  element. Don't add more than one Google tag to each page.
+  GTM-5NZMJLQD
+  All tags
+  <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-5NZMJLQD"></script>
+  <script>
+  11 C],
+  window. dataLayer
+  window. dataLayer
+  function gtag(){dataLayer . push(arguments);}
+  gtag( 'is',
+  new Date());
+  < / script)
+  Show more options
+  Use of the Google tag is subject to the terms governing the service where it is used.
+  99
+  ENG
+  IN
+  Ask Gemini
+  Test installation
+  24-11-2026
+
+==========================================
+FILE: Screenshot 2026-11-24 162006.png (508925 bytes)
+==========================================
+  All accounts > Default Account for Fire...
+  Analytics StudyAl Hub
+  Create
+  O
+  All Users
+  Try searching "users today"
+  Add comparison + :Kheri
+  Rohad
+  Garh
+  Muktesh war
+  Pavi Sadakpur
+  Muradnagar
+  Ill
+  ACTIVE USERS IN LAST 30 MINUTES
+  Realtime overview.
+  Man _hi
+  Faridnagar
+  Pilkhuwa
+  Reports snapshot
+  Realtime overview
+  Realtime pages
+  Business objectives
+  Generate leads
+  Drive sales
+  Understand web and/or app t...
+  View user engagement & rete...
+  Data import
+  Campaign data import valida.„
+  User
+  User attributes
+  Ü Library
+  View user snapshot
+  --gérr------
+  Dujana
+  Bahadurgarh
+  uchhakwas
+  Jatusi
+  Jhajjar
+  Badli
+  Delhi
+  New Delhi
+  ACTIVE USERS IN LAST 5 MINUTES
+  1
+  Banthla
+  1 min
+  Mas ri
+  Ghaziabad
+  Dhaulana
+  Chhapraula
+  Dadri
+  Noida
+  B.B. Nagar
+  B.B. Slyana
+  Gulaothi
+  Agota
+  Khanpur
+  lada
+  Bugras
+  Muradabad
+  Sikandrabad
+  Kakod
+  Aurangabad
+  1
+  ACTIVE USERS PER MINUTE
+  Narsena
+  Khadan
+  Jahan irabad
+  0.5
+  GreaterNoida
+  Dankaur
+  Rabupura
+  Bulandshahr
+  Khabra
+  -30 min
+  Rewari
+  -25 min
+  -20 min
+  -15 min
+  -10 min
+  -5 min
+  Keyboard shortcuts
+  Badha
+  Map data 02026 Google
+  Shikarpur
+  AhmädOärh
+  Terms Report a map error
+  Active users by First user source.
+  No data available
+  Active users. by Aug_ieoce
+  #1 All Users
+  1
+  100%
+  Yiews by title ang ygreen name
+  #1 Best Al Tools for College Stud...
+  7
+
+==========================================
+FILE: Screenshot 2026-11-24 163513.png (532246 bytes)
+==========================================
+  2; analytics.google.com/analytics/web/#/a360567366p565716280/realtime/overview?param...
+  All accounts > Default Account for Fire...
+  Analytics StudyAl Hub
+  Create
+  O
+  All Users
+  Try searching "Explorations"
+  Add comparison + :Kheri
+  Rohad
+  CD
+  Muradnagar
+  Ask Gemini
+  Garh
+  Mukteshwar
+  Ill
+  ACTIVE USERS IN LAST 30 MINUTES
+  Realtime overview.
+  Man _hi
+  Dujana
+  Pavi Sadakpur
+  Banthla
+  Delhi
+  Faridnagar
+  Pilkhuwa
+  Reports snapshot
+  Realtime overview
+  Realtime pages
+  Business objectives
+  Generate leads
+  Drive sales
+  Understand web and/or app t...
+  View user engagement & rete...
+  Data import
+  Campaign data import valida.„
+  User
+  User attributes
+  Ü Library
+  View user snapshot
+  Bahadurgarh
+  Mas ri
+  Ghaziabad
+  Dhaulana
+  uchhakwas
+  Jhajjar
+  lada
+  Bugras
+  Badli
+  New Delhi
+  ACTIVE USERS IN LAST 5 MINUTES
+  3
+  Chhapraula
+  Dadri
+  Noida
+  B.B. Nagar
+  B.B. Siyana
+  Gulaothi
+  Agota
+  Khanpur
+  Muradabad
+  Sikandrabad
+  Kakod
+  Aurangabad
+  3
+  ACTIVE USERS PER MINUTE
+  Narsena
+  Khadan
+  Jahan irabad
+  2
+  Jatux
+  -30 min
+  Rpwari
+  Greater Noida
+  Dankaur
+  Rabupura
+  Bulandshahr
+  Khabra
+  -25 min
+  -20 min
+  tsmwaal
+  -15 min
+  -10 min
+  -5 min
+  1 min
+  Keyboard shortcuts
+  Badha
+  Map data 02026 Google
+  Shikarpur
+  AhmadOärh
+  Terms Report arnap error
+  Active users by First user source.
+  No data available
+  Dhatir
+  Active users. by Aug_ieoce
+  #1 All Users
+  3
+  100%
+  Yiews by title ang ygreen name
+  #1 Best Al Tools for College Stud...
+  13
+  16.67%
+
+==========================================
+FILE: Screenshot 2026-11-24 163522.png (226343 bytes)
+==========================================
+  2; analytics.google.com/analytics/web/#/a360567366p565716280/realtime/overview?param...
+  All accounts > Default Account for Fire...
+  Ill
+  ACTIVE USERS
+  EVENT NAME
+  CD
+  ACTIVE USERS
+  3
+  1 ofl
+  No data available
+  KEY EVENTS
+  Ask Gemini
+  Analytics StudyAl Hub
+  Create
+  Try searching "Explorations"
+  Realtime overview @
+  Reports snapshot
+  Realtime overview
+  Realtime pages
+  Business objectives
+  Generate leads
+  Drive sales
+  Understand web and/or app t...
+  View user engagement & rete...
+  Data import
+  Campaign data import valida.„
+  User
+  User attributes
+  Ü Library
+  Active users by First user source.
+  No data available
+  FIRST USER SOURCE
+  No data available
+  Active users. by Aug_ieoce
+  #1 All Users
+  3
+  100%
+  AUDIENCE
+  All Users
+  by Even! neme
+  View user snapshot
+  Yiews by title ang ygreen name
+  #1 Best Al Tools for College Stud...
+  13
+  16.67%
+  PAGE TITLE AND
+  Best Al Tools for Coll.„
+  Find the Best Al Tool.„
+  Al Coding Tools for
+  Al Productivity & Not...
+  Al Tools for Studying.„
+  Contact & Tool Subm.„
+  VIEWS
+  13
+  11
+  10
+  8
+  8
+  7
+  Evep! goupt by Event pprne
+  #1 page_view
+  80
+  85.11%
+  EVENT NAME
+  —6 of 11
+  Active by .prppg!y_
+  No data available
+  EVENT COUNT
+  USER PROPERTY
+  ACTIVE USERS
+
+==========================================
+FILE: Screenshot 2026-11-24 163537.png (147309 bytes)
+==========================================
+  All accounts > Default Account for Fire...
+  Try searching "Explorations"
+  Ill
+  Analytics
+  Create
+  StudyAl Hub
+  Realtime pages @
+  ACTIVE USERS IN LAST 30 MINUTES
+  3
+  ACTIVE USERS PER MINUTE O
+  Last 30 min
+  Reports snapshot
+  Realtime overview
+  Realtime pages
+  Business objectives
+  Generate leads
+  Drive sales
+  Understand web and/or app t...
+  View user engagement & rete...
+  Data import
+  Campaign data import valida.„
+  User
+  User attributes
+  Ü Library
+  VIEWS IN LAST 30 MINUTES
+  2
+  -30 min
+  -25 min
+  -20 min
+  80
+  -15 min
+  Page path and screen class in last 30 minutes
+  Search...
+  -IO min
+  Rows per page:
+  2
+  Page path and screen class
+  /about
+  -5 min
+  Go to:
+  Active users
+  3
+  3
+  -1 min
+  I-IO of 11 >
+  Views
+  12
+  6
+
+==========================================
+FILE: Screenshot 2026-11-24 163542.png (167210 bytes)
+==========================================
+  Analytics
+  Create
+  All accounts > Default Account for Fire...
+  StudyAl Hub
+  Try searching "Explorations"
+  Ill
+  Realtime pages @
+  Page path and screen class in last 30 minutes
+  Reports snapshot
+  Realtime overview
+  Realtime pages
+  Business objectives
+  Generate leads
+  Drive sales
+  Understand web and/or app t...
+  View user engagement & rete...
+  Data import
+  Campaign data import valida.„
+  User
+  User attributes
+  Ü Library
+  Search...
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  10
+  Rows per page:
+  Page path and screen class
+  /about
+  /coding
+  /blog
+  /blog/best-ai-tools-for-college-students
+  /contact
+  /presentations
+  /productivity
+  /research
+  /study
+  Go to:
+  Active users
+  3
+  3
+  3
+  2
+  2
+  2
+  2
+  2
+  2
+  2
+  Last 30 min
+  I-IO of 11 >
+  Views
+  12
+  6
+  10
+  6
+  13
+  7
+  4
+  8
+  4
+  8
+
+==========================================
+FILE: Screenshot 2026-11-24 170437.png (107566 bytes)
+==========================================
+  PageSpeed Insights
+  Diagnose performance issues
+  løø
+  Performa n ce
+  lee
+  Performance
+  96
+  Accessibility
+  Mobile
+  løø
+  Best Practices
+  Desktop
+  Copy link
+  2/2
+  Agentic browsing
+  Find the Best AI Tools for
+  Students
+  Expand view
+  Docs
+  løø
+  Values are estimated and may vary. The performance score is calculated
+  direct} from these metrics.See calculator.
+  0_49
+  90-100
+  METRICS
+  First Contentful Paint
+  0.3 s
+  Total Blocking Time
+  60 ms
+  Speed Index
+  1.1 s
+  E captured at 24 Nov 2026, 17:00
+  Largest Contentful Paint
+  0.3 s
+  Cumulative Layout Shift
+  0
+
+==========================================
+FILE: Screenshot 2026-11-24 170450.png (101873 bytes)
+==========================================
+  PageSpeed Insights
+  98
+  Performa n ce
+  98
+  Performance
+  96
+  Accessibility
+  Mobile
+  løø
+  Best Practices
+  Desktop
+  Copy link
+  2/2
+  Agentic browsing
+  Find AJ
+  for
+  Expand view
+  Docs
+  løø
+  Values are estimated and may vary. The performance score is calculated
+  direct} from these metrics.See calculator.
+  0_49
+  METRICS
+  First Contentful Paint
+  1.0 s
+  Total Blocking Time
+  140 ms
+  Speed Index
+  2.8 s
+  E captured at 24 Nov 2026, 17:00
+  Ö Initial page load
+  90-100
+  Largest Contentful Paint
+  I.os
+  Cumulative Layout Shift
+  0
+
+==========================================
+FILE: Screenshot 2026-11-24 171734.png (147978 bytes)
+==========================================
+  Google Search Console
+  studyaihub.live
+  Pages
+  Sitemaps
+  Removals
+  Experience
+  @ Core Web Vitals
+  6 HTTPS
+  Security & Manual Actions
+  Links
+  Achievements
+  Settings
+  Submit feedback
+  About Search Console
+  Privacy Terms
+  Q Inspect any URL in "studyaihub.live"
+  Settings
+  General settings
+  Ownership verification
+  Users and permissions
+  Associations
+  Change of address
+  Bulk data export
+  Al controls
+  Search generative Al
+  Crawling
+  robots.txt
+  e You are a verified owner
+  Piyush Khatwa
+  Associate a service with this property
+  Inform Google when your site moves to a new address
+  Daily export of performance data to BigQuery
+  Include
+  All files are valid
+  OPEN REPORT
+
+==========================================
+FILE: Screenshot 2026-11-24 171909.png (128222 bytes)
+==========================================
+  Google Search Console
+  studyaihub.live
+  Pages
+  Sitemaps
+  Removals
+  Experience
+  @ Core Web Vitals
+  6 HTTPS
+  Security & Manual Actions
+  Links
+  Achievements
+  Settings
+  Submit feedback
+  O About Search Console
+  Privacy Terms
+  Q Inspect any URL in "studyaihub.live"
+  Sitemaps > https://www.studyaihub.live/sitemap.xml?utm_source=chatgpt.com
+  OPEN SITEMAP
+  Last read
+  1 1 /23/26
+  Discovered pages
+  11
+  Discovered videos
+  SEE PAGE INDEXING
+  SEE VIDEO PAGE INDEXING
+  Sitemap processed successfully
+
+==========================================
+FILE: Screenshot 2026-11-24 172114.png (126307 bytes)
+==========================================
+  Google Search Console
+  studyaihub.live
+  Overview
+  Q Insights
+  performan Ce
+  Q, URL inspection
+  Indexing
+  Pages
+  Sitemaps
+  Removals
+  Experience
+  @ Core Web Vitals
+  HTTPS
+  Security Manual Actions
+  Links
+  Achievements
+  Settings
+  Submit feedback
+  About Search Console
+  Privacy Terms
+  Inspect any URL in •studyaihub_live"
+  httpswstudyaihub.live,'
+  page IS no r, ex
+  ages a aren In exe can e
+  details belowto learn why it wasn't indexed. Learn more
+  og e
+  VIEW CRAWLED PAGE
+  Page indexing
+  Discovery
+  Sitemaps
+  Referring page
+  Last crawl
+  Crawled as
+  Crawl allowed?
+  Page fetch
+  Indexing allowed?
+  Indexing
+  User-declared canonical
+  Googleselected canonical O
+  Page changed?
+  REQUEST INDEXING
+  Page is not indexed: Page with redirect
+  No referring sitemaps detected
+  https://mmv_studyaihub.llve/
+  Nov 20, 2026,
+  Googlebot smartphone
+  Successful
+  https://studyaihubcom/
+  https://mmv_studyaihub.llve/
+  INSPECT
+  LEARN MORE
+  OPEN REPORT
+  Enhancements & Experience
+  Only indexed URLs can have enhancements
+
+==========================================
+FILE: Screenshot 2026-11-24 172200.png (131688 bytes)
+==========================================
+  Google Search Console
+  studyaihub.live
+  Overview
+  Q Insights
+  performan Ce
+  Q, URL inspection
+  Indexing
+  Pages
+  Sitemaps
+  Removals
+  Experience
+  @ Core Web Vitals
+  HTTPS
+  Security Manual Actions
+  Links
+  Achievements
+  Settings
+  Submit feedback
+  About Search Console
+  Privacy Terms
+  Inspect any URL in •studyaihub_live"
+  httpsWstudyaihub.live/blog/best-ai-tools-for-college-students
+  URL Inspection
+  TEST LIVE URL
+  O
+  URL is not on Google
+  This page is not indexed Pages that aren't indexed cant be served on Google. See the
+  details belowto learn why it wasn't indexed. Learn more
+  VIEW CRAWLED PAGE
+  Page indexing
+  Discovery
+  Sitemaps
+  Referring page
+  Page changed?
+  REQUEST INDEXING
+  Page is not indexed: Redirect error
+  No referring sitemaps detected
+  None detected
+  URL might be known from other sources that are currently not reported
+  Last crawl
+  Crawled as
+  Crawl allowed?
+  Page fetch
+  Indexing allowed?
+  Indexing
+  User-declared canonical
+  Googleselected canonical O
+  Nov 28, 2026, PM
+  Googlebot smartphone
+  Failed: Redirect error
+  LEARN MORE
+  OPEN REPORT
+  Enhancements & Experience
+
+==========================================
+FILE: Screenshot 2026-11-24 172546.png (227984 bytes)
+==========================================
+  StudyAIHub
+  FOR COLLEGE STUDENTS
+  2026 Guide
+  Submit a Tool
+  The Independent Al Directory for Higher Education
+  Find the Best AI Tools for Students
+  Discover verified Al tools for active studying, scholarly research papers,
+  coding, writing, and presentation decks—with honest free plan breakdowns
+  and academic ethics advice.
+  Sources Network Performance
+  Elements Console
+  <h2 class="text-2x1 font-bold text-slate-900 tracking-tight border-b border-s
+  late-200 pb-2">1. Why General AI Lists Fail College Students</h2>
+  <ul class="list-disc pl-5 space-y-1.5 mt-2
+  • class="mt-3">
+  "In research conducted alongside modern search and discovery audits (such
+  as technical indexing benchmarks evaluated by "
+  <a href=" https://seonalabs.com" target="
+  blank" rel=" noopener noreferrer"
+  hover: underline" >Seona Labs</a>
+  " ) , this guide filters out marketing noise to review the software that
+  actually improves learning, accelerates literature reviews, and simplifies
+  technical coding. "
+  </section> $0
+  (section id="to -free-ai-tools" class="scr011-mt-24">
+  </section>
+  800.text-sm.sm\:text-base.leading-relaxed.space-y-12 section#why-students-need-curation.scroll-mt-24
+  Explore All Verified Tools
+  Read 2026 Student Guide
+  100%
+  Free Tier Transparency
+  Find by string, selector, or XPath
+  Styles Computed Layout Event Listeners
+  Grid / grid lanes
+  Overlay display settings
+  Show line numbers
+  o
+  Show track sizes
+  n
+  Qhnw area narnpc
+  Console Al assistance
+  top' @ Y Filter
+  DOM breakpoints
+  24+
+  Audited Tools
+  Academic Hubs
+  Properties
+  Default levels
+  Accessibility
+  cog x
+  No issues
+  > to turn on code suggestions Don't show again
+  Browse by Academic Workflow
+  Every collegiate task has unique challenges. Choose your current coursework focus below.
+
+==========================================
+FILE: Screenshot 2026-11-24 172636.png (200181 bytes)
+==========================================
+  HÜy
+  Agent
+  Find
+  Overview
+  Deployrnents
+  Logs
+  Analytics
+  (7,
+  Speed Insights
+  Observability
+  Firewall
+  @ CDN
+  Environment Variables
+  Dornains
+  Connect
+  Integrations
+  Storage
+  Flags
+  Agent
+  Vulnerabilities
+  % AI Gateway
+  Sandboxes
+  piyushkhatwa
+  Deployments
+  Author Piyushkhatwa
+  — Add Filter
+  Environment Production
+  Status Error
+  Add GA4 tracking and finalize SEO improvements
+  Fix article SEO structured data
+  Fix article SEO structured data
+  Improve root layout structured data
+  Improve structured data SEO schemas
+  Fix canonical domain and SEO metadata
+  Describe your changes here
+  Add StudyAl Hub project
+  Add StudyAl Hub project
+  Add StudyAl Hub project
+  Ready
+  21 s
+  Ready
+  43S
+  Ready
+  16S
+  Ready
+  17S
+  Ready 15s
+  Ready
+  17S
+  Ready 15s
+  Ready
+  Ready
+  14s
+  Ready
+  29S
+  o
+  production
+  O Production
+  O Production
+  O Production
+  O Production
+  O Production
+  o
+  production
+  o
+  production
+  O Production
+  a129f87
+  O Redeploy Of 7R39APZ96
+  6d993aa
+  -o- 34219a3
+  415c826
+  481bd2e
+  8587ac4
+  Redeploy Of EW2A5mjJ
+  Redeploy Of 8fmaDXLrT
+  83f 4cea
+  Create New
+  lh ago
+  lh ago
+  21h ago
+  21h ago
+  Deployment Retention is enabled for this project — some deployments will be deleted after a set time period. Learn more
+  View Recently Deleted
+
+=== USER UPLOADED ===
+
+==========================================
+FILE: media_1795520079786_ec9eb496.png (73593 bytes)
+==========================================
+  PageSpeed Insights
+  0.3 s
+  60 ms
+  1.1 s
+  100
+  perfor
+  0.3 s
+
+==========================================
+FILE: media_1795520103082_ba76c993.png (72653 bytes)
+==========================================
+  Insights
+  98
+  I.os
+  140 ms
+  2.8 s
+  I.os
+
+==========================================
+FILE: media_1795520980856_2659123b.png (66730 bytes)
+==========================================
+  Google Search Console
+  studyaihuh.live
+  Insights
+  Perform
+  URL
+  lncming
+  Sitemaps
+  @ Core We b Vita [s
+  6 HTTPS
+  Security Manual Actions
+  Links
+  q Inspect any URL in •studyaihub. live'
+  Ove
+  C) Get insights into y C•ur gite's Search performance
+  Performance
+  total search clicks
+  Indexing
+  gull report
+  Full report >
+
+==========================================
+FILE: media_1795521000450_3f29f898.png (80113 bytes)
+==========================================
+  Google Search Console
+  Studyaihub.live
+  Sitemaps
+  @ Core Web Vitals
+  6 HTTPS
+  Security Manual Acticms
+  Settings
+  Submit
+  About Search Console
+  Ten
+  q Inspect any URL in •studyaihub. live'
+  Sitemaps > https://www.studyaihub.live/sitemap.xml?utm_
+  -chatgpt.com
+  source-
+  OPEN SITEMAP
+  Last read
+  1 1 /23/26
+  Sitemap processed
+  11
+  SEEPAGE INDEXING
+  SEE VIDEO PAGE INDEXING
+
+==========================================
+FILE: media_1795521083357_49e31644.png (80200 bytes)
+==========================================
+  ¯ S rch
+  0
+
+==========================================
+FILE: media_1795521122565_5915dc4f.png (84684 bytes)
+==========================================
+  Search C
+  URL
+  o
+  URL is mt on
+  0
+
+==========================================
+FILE: media_1795521354378_823ffd7f.jpg (85997 bytes)
+==========================================
+  O studyAIHub
+  2026 Guide
+  Al fM Ed&tion
+  Find the Best AI Tools for Students
+  Discover verified Al tools for active studying, scholarly research papers,
+  coding, writing. and presentation decks—with honest free plan breakdowns
+  and academic ethics advice,
+  2026 Guide
+  "j. this wide
+  se,4e
+  \ grid
+  Li
+  DOM
+  24+
+  100%
+  Browse by Academic Workflow
+  Every collegiate task has unique
+  rent course•.vork focus below
+
+==========================================
+FILE: media_1795521406151_aa4a1e95.png (128053 bytes)
+==========================================
+  S dam
+  nx "tide S
+  SEO
+  SFO
+  Md Hub
+  .ano
+  168
+  no
+  a set
