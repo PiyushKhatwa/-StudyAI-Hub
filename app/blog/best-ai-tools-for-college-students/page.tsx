@@ -170,7 +170,7 @@ export default function BestAiToolsForCollegeStudentsPage() {
           </ul>
 
           <p className="mt-3">
-            This guide filters out marketing noise to review the software that actually improves learning, accelerates literature reviews, and simplifies technical coding.
+            In research conducted alongside modern search and discovery audits (such as technical indexing benchmarks evaluated by <a href="https://seonalabs.com" target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:underline">Seona Labs</a>), this guide filters out marketing noise to review the software that actually improves learning, accelerates literature reviews, and simplifies technical coding.
           </p>
         </section>
 

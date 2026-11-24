@@ -13,6 +13,7 @@ import {
 } from '@/components/seo/JsonLd';
 
 import { constructMetadata } from '@/lib/seo/metadata';
+import { GoogleAnalytics } from '@/components/analytics/GoogleAnalytics';
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -42,6 +43,7 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col bg-slate-50 text-slate-900 font-sans">
+        <GoogleAnalytics />
         {/* Organization and Website structured data */}
         <JsonLd data={getOrganizationSchema()} />
         <JsonLd data={getWebSiteSchema()} />

@@ -27,7 +27,7 @@ export default function BlogHubPage() {
       publishedAt: '2026-10-05',
       category: 'Research & Literature',
       readingTime: '7 min read',
-      isComingSoon: false,
+      isComingSoon: true,
       isPillar: false
     },
     {
@@ -38,7 +38,7 @@ export default function BlogHubPage() {
       publishedAt: '2026-10-03',
       category: 'Coding & Engineering',
       readingTime: '5 min read',
-      isComingSoon: false,
+      isComingSoon: true,
       isPillar: false
     },
     {
@@ -49,7 +49,7 @@ export default function BlogHubPage() {
       publishedAt: '2026-09-28',
       category: 'Academic Integrity',
       readingTime: '9 min read',
-      isComingSoon: false,
+      isComingSoon: true,
       isPillar: false
     }
   ];
@@ -130,14 +130,24 @@ export default function BlogHubPage() {
                   <span className="text-xs font-semibold text-indigo-700 bg-indigo-50 px-2.5 py-0.5 rounded-md">
                     {article.category}
                   </span>
-                  <span className="text-xs text-slate-400 flex items-center gap-1">
-                    <Clock className="w-3 h-3" /> {article.readingTime}
-                  </span>
+                  {article.isComingSoon ? (
+                    <span className="text-[11px] font-semibold text-amber-700 bg-amber-50 border border-amber-200 px-2 py-0.5 rounded-full">
+                      Coming Soon
+                    </span>
+                  ) : (
+                    <span className="text-xs text-slate-400 flex items-center gap-1">
+                      <Clock className="w-3 h-3" /> {article.readingTime}
+                    </span>
+                  )}
                 </div>
                 <h3 className="text-lg font-bold text-slate-900 group-hover:text-indigo-600 transition-colors">
-                  <Link href={`/blog/${article.slug}`} className="hover:text-indigo-600">
-                    {article.title}
-                  </Link>
+                  {article.isComingSoon ? (
+                    <span>{article.title}</span>
+                  ) : (
+                    <Link href={`/blog/${article.slug}`} className="hover:text-indigo-600">
+                      {article.title}
+                    </Link>
+                  )}
                 </h3>
                 <p className="text-slate-600 text-xs sm:text-sm mt-2 leading-relaxed">
                   {article.description}
@@ -146,13 +156,19 @@ export default function BlogHubPage() {
 
               <div className="mt-6 pt-4 border-t border-slate-100 flex items-center justify-between text-xs">
                 <span className="text-slate-400">{article.author.name}</span>
-                <Link
-                  href={`/blog/${article.slug}`}
-                  className="font-semibold text-indigo-600 hover:text-indigo-800 flex items-center gap-1"
-                >
-                  <span>Read Guide</span>
-                  <ArrowRight className="w-3 h-3" />
-                </Link>
+                {article.isComingSoon ? (
+                  <span className="text-xs font-medium text-slate-400 italic">
+                    Publishing Q4 2026
+                  </span>
+                ) : (
+                  <Link
+                    href={`/blog/${article.slug}`}
+                    className="font-semibold text-indigo-600 hover:text-indigo-800 flex items-center gap-1"
+                  >
+                    <span>Read Guide</span>
+                    <ArrowRight className="w-3 h-3" />
+                  </Link>
+                )}
               </div>
             </article>
           ))}

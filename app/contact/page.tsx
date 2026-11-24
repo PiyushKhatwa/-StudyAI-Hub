@@ -47,7 +47,7 @@ export default function ContactPage() {
               For research inquiries, student submissions, or coursework discussions:
             </p>
             <p className="text-xs font-semibold text-indigo-600 mt-2">
-              contact@studyaihub.com
+              contact@studyaihub.live
             </p>
           </div>
 

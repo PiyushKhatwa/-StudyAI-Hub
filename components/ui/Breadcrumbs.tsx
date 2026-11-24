@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { ChevronRight, Home } from 'lucide-react';
 import { JsonLd, getBreadcrumbSchema } from '@/components/seo/JsonLd';
+import { SITE_CONFIG } from '@/lib/seo/metadata';
 
 export interface BreadcrumbItem {
   label: string;
@@ -14,8 +15,8 @@ interface BreadcrumbsProps {
 
 export const Breadcrumbs: React.FC<BreadcrumbsProps> = ({ items }) => {
   const schemaItems = [
-    { name: 'Home', url: 'https://studyaihub.live' },
-    ...items.map(i => ({ name: i.label, url: `https://studyaihub.live${i.href}` }))
+    { name: 'Home', url: SITE_CONFIG.url },
+    ...items.map(i => ({ name: i.label, url: `${SITE_CONFIG.url}${i.href}` }))
   ];
 
   return (
